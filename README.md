@@ -6,4 +6,4 @@ Simulates a real-life scenario where an employee "Samy" goes to work using his c
 
 ## Project Structure
 - `oop.py` — Main program logic.
-- `docs/` — UML Diagram & Requirements.
+- `pdf/` — UML Diagram & Requirements.
